@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm @Insanitarius - aka Shubhodeep</h1>
 <h4 align="left">I am an enthusiastic fullstack developer hailing from the vibrant land of India. My passion for coding knows no bounds, as I navigate the digital realms to craft innovative solutions and bring ideas to life. With both technical prowess and an unwavering commitment to excellence, I'm here to create, iterate, and make the world of technology a more exciting place.</h4>
 
-<br/>
-
 - 🔭 I’m currently working on [SkyBridge](https://skybridge.netlify.app/)
 
 - 🌱 I’m currently learning **Fastify, Docker and Networking**
