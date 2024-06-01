@@ -123,6 +123,6 @@
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=insanitarius" alt="insanitarius" />
+        <img src="https://github-profile-trophy.vercel.app/?username=insanitarius&theme=gruvbox&margin-w=5&no-bg=true" alt="insanitarius" />
     </a>
 </p>
